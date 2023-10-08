@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi Bansal</h1>
 <h3 align="center">A passionate Machine Learning Engineer and AI developer from India.</h3>
-<img align="right" width=400 alt="coding" src="https://www.bing.com/images/search?view=detailV2&ccid=wNGxHlTC&id=642A5EA01B57304D7C4E72902D3FA0A2270B41F8&thid=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&exph=600&expw=800&q=coding+gifv&simid=608052642527063308&FORM=IRPRST&ck=81CABFF855597FE1A42A4C2B21AB3601&selectedIndex=25&ajaxhist=0&ajaxserp=0">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-98&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-98" /> </p>
 
